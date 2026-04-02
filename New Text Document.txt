@@ -1,0 +1,8 @@
+.env
+*.env
+__pycache__/
+*.pyc
+tasks.json
+*.log
+*.key
+*.pem
